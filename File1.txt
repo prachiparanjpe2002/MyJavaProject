@@ -1,7 +1,7 @@
 File is created...
 
 class MyClass{
-oublic static void main(){
+public static void main(){
 print("Hello git");
 }
 }
