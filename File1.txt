@@ -1,1 +1,7 @@
 File is created...
+
+class MyClass{
+main(){
+print("Hello git");
+}
+}
