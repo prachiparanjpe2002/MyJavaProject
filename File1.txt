@@ -1,9 +1,9 @@
 File is created...
 
 class MyClass{
-public static void main(){
-print("Hello git");
-}
+	public static void main(){
+		print("Hello git");
+	}
 }
 
-nwe change made
+new change made
